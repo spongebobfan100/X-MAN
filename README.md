@@ -1,4 +1,5 @@
 ![download](https://user-images.githubusercontent.com/59636597/230820556-08383860-a39e-4509-b7ad-2b922d8597ed.png)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 # X-MAN
 ![Xman](https://user-images.githubusercontent.com/59636597/230286908-41686e04-0d27-451e-937a-d3c2c0841aa5.png)
 
