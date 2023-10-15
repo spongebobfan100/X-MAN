@@ -11,5 +11,3 @@ XMAN is a ridiculous RPG game that is entirely run in the command line, and it f
 ![Alien](https://user-images.githubusercontent.com/59636597/230284457-99811c25-de9d-4ca5-9173-35fbe9980f34.png)
 ![Shop](https://user-images.githubusercontent.com/59636597/230284388-31f8bbaa-e5db-42d5-a63b-309a6049eba4.png)
 
-
-s
