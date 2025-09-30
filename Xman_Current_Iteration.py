@@ -3,9 +3,9 @@ import os
 import time
 import random
 
-# ========================
+# =========================
 # Config
-# ========================
+# =========================
 BOARD_WIDTH  = 30
 BOARD_HEIGHT = 16   # visible rows
 
